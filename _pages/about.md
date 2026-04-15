@@ -12,16 +12,16 @@ I am a final-year Ph.D. student at [CISPA Helmholtz Center for Information Secur
 
 # Research Interests
 
-* Agentic AI
+* Agentic RL
 * LLM Post-Training & Alignment
 * Certifiable Robustness Methods
 
 # Publications
 
-* [Jailbreaking Attacks vs. Content Safety Filters: How Far Are We in the LLM Safety Arms Race?]()  
+* [Jailbreaking Attacks vs. Content Safety Filters: How Far Are We in the LLM Safety Arms Race?](https://arxiv.org/pdf/2512.24044)  
   **Yuan Xin**, Dongping Chen, Lulu Yang, Michael Backes, Xiao Zhang. *ACL 2026 Findings*.
 
-* [Provably Cost-Sensitive Adversarial Defense via Randomized Smoothing](https://arxiv.org/abs/2310.08732)  
+* [Provably Cost-Sensitive Adversarial Defense via Randomized Smoothing](https://openreview.net/pdf?id=D7qKAO34tp)  
   **Yuan Xin**, Dongping Chen, Michael Backes, Xiao Zhang. *ICML 2025*.
 
 * [Inside the Black Box: Detecting Data Leakage in Pre-trained Language Encoders](https://arxiv.org/abs/2401.07603)  
