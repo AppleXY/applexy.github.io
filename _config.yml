@@ -19,7 +19,7 @@ repository               : "AppleXY/applexy.github.io"
 
 # Site Author
 author:
-  avatar           : "/images/photo2.png"
+  avatar           : "https://applexy.github.io/images/photo2.png"
   name             : "Yuan Xin"
   pronouns         :
   bio              : "Final-year Ph.D. Student at CISPA"
