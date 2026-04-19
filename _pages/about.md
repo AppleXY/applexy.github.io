@@ -14,7 +14,7 @@ I am a final-year Ph.D. student at [CISPA Helmholtz Center for Information Secur
 
 * Agentic RL
 * LLM Post-Training & Alignment
-* Certifiable Robust Methods
+* Probabilistic Certification Methods
 
 # Publications
 
