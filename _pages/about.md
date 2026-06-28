@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), supervised by [Michael Backes](https://cispa.de/en/about/director-page). I also work closely with [Xiao Zhang](https://xiao-zhang.net/#featured). Prior to that, I obtained my bachelor's (2018) and master's (2021) degrees from University of Science and Technology of China (USTC).
+I am a Ph.D. student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), supervised by [Michael Backes](https://cispa.de/en/about/director-page), and co-advised by [Xiao Zhang](https://xiao-zhang.net/#featured). Prior to that, I obtained my bachelor's (2018) and master's (2021) degrees from University of Science and Technology of China (USTC).
 
 # Research Interests
 
